@@ -1,17 +1,9 @@
-# Python
 .venv/
 __pycache__/
 *.pyc
-
-# Jupyter
+.pytest_cache/
 .ipynb_checkpoints/
-
-# macOS
 .DS_Store
-
-# Local data and model weights
 data/
 weights/
-
-# Secrets
 .env
